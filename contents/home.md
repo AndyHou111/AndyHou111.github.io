@@ -8,7 +8,7 @@ I am currently an undergraduate student majoring in computer science in the Coll
 
 Email (University): [bohou@umich.edu](mailto:bohou@umich.edu)\
 Email (Personal): [andyhou27112@gmail.com](mailto:andyhou27112@gmail.com)\
-LinkedIn: [Bo Hou](https://www.linkedin.com/in/bo-hou-07a256332)
+LinkedIn: [Bo Hou](https://www.linkedin.com/in/bo-hou-07a256332)\
 GitHub: [AndyHou111](https://github.com/AndyHou111)
 
 

@@ -1,6 +1,8 @@
 title: Bo Hou's Homepage
 page-top-title: Bo Hou (Andy)
-top-section-bg-text: Computer Science at University of Michigan
+top-section-bg-text: |
+  Computer Science Undergraduate<br>
+  <span style="font-size:60%;">University of Michigan</span>
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
