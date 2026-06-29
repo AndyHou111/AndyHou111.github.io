@@ -1,11 +1,10 @@
-title: Bo Hou's Homepage
+title: Bo Hou Homepage
 page-top-title: Bo Hou (Andy)
-top-section-bg-text: |
-  Computer Science Undergraduate<br>
-  <span style="font-size:60%;">University of Michigan</span>
+top-section-bg-text: Computer Science Undergraduate
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
+  - static/assets/background/background_2.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
