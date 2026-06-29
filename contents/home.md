@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![AndyHou111](https://img.shields.io/badge/AndyHou111-GitHub-blue?logo=github)](https://github.com/AndyHou111)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently an undergraduate student majoring in computer science in the College of Literature, Science, and the Arts (LSA) at University of Michigan.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: bohou@umich.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.S., Computer Science, University of Michigan, Ann Arbor, 2026-2030 (Expected).\
+Graduated High School Student, Shenzhen Foreign Languages School, 2023-2026
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning; Artificial Intelligence; Mathematics Modeling; Quantum Computing

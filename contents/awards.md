@@ -1,12 +1,19 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Scored 12/15 American Invitational Mathematics Examination (AIME), 2025
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Distinction, Top 5%, American Mathematics Competition 12 (AMC12), 2025
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Qualification, United States of America Junior Mathematical Olympiad (USAJMO), 2024
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Distinction, Top 5%, American Mathematics Competition 12 (AMC12), 2024
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Global Silver, British Physics Olympiad (BPhO), 2024
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Gold, Senior Mathematical Challenge, 2023
+
+- National Silver, Physics Bowl, 2023
+
+- Honor Roll, Top 1%, American Mathematics Competition 10 (AMC10), 2023
+
+- Distinction, Ranked Top 5%, Euclid Math Contest, 2023
+
