@@ -2,7 +2,7 @@
 
 [![AndyHou111](https://img.shields.io/badge/AndyHou111-GitHub-blue?logo=github)](https://github.com/AndyHou111)
 
-I am currently an undergraduate student majoring in computer science in the College of Literature, Science, and the Arts (LSA) at University of Michigan. Originally from Shenzhen, China, I graduated from Shenzhen Foreign Languages School before joining the University of Michigan. My research interests include artificial intelligence, machine learning, mathematical modeling, and quantum computing. I am always open to research collaborations and opportunities in these areas.
+I am currently an undergraduate student majoring in computer science in the College of Literature, Science, and the Arts (LSA) at University of Michigan. Originally from Shenzhen, China, I graduated from Shenzhen Foreign Languages School before joining the University of Michigan. My research interests include artificial intelligence, machine learning, mathematics, and quantum computing. I am always open to research collaborations and opportunities in these areas.
 
 #### Contact
 
